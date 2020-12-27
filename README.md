@@ -1,4 +1,3 @@
-  [![Coding boy](https://coverfiles.alphacoders.com/399/39953.jpg)](https://www.facebook.com/mabrur.h11) 
 <p>
   <h1 align="center"><b>Hi there, I'm Mabrur👋</b></h1>
 </p>
@@ -14,11 +13,10 @@
 
 <br>
 
-<img align="center" height="300px" alt="photo" src="https://thumbs.gfycat.com/WebbedAgedHorsechestnutleafminer-size_restricted.gif" />
 <hr>
-<strong> I'm 17 years old Full-Stack developer from Uzbekistan. </strong>
+<h3> I'm 17 years old Full-Stack developer from Uzbekistan. </h3>
 <br>
-- 👨‍💻 I’m currently working on my Portfolio Website
+- 💻 I’m currently working on my Portfolio Website
 - ⚛️ I’m currently learning MERN Stack Development.
 - 💬 Ask me about anything, I am happy to help
 - 🧗 I try to: Go beyond and push the bounds
