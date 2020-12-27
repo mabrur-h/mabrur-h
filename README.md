@@ -17,7 +17,7 @@
 <img align="center" height="300px" alt="photo" src="https://thumbs.gfycat.com/WebbedAgedHorsechestnutleafminer-size_restricted.gif" />
 <hr>
 <strong> I'm 17 years old Full-Stack developer from Uzbekistan. </strong>
-
+<br>
 - 👨‍💻 I’m currently working on my Portfolio Website
 - ⚛️ I’m currently learning MERN Stack Development.
 - 💬 Ask me about anything, I am happy to help
@@ -26,6 +26,7 @@
 <hr>
 
 <details><summary><strong>▶️My Projects...</strong></summary><p>
+  <br>
   <a href="https://t.me/futbolavabot/">🤖 FUTBOLAVA BOT</a>
 <br>
   <a href="https://deus-news.netlify.app/">📰 NEWS SITE</a>
@@ -33,10 +34,8 @@
   <a href="https://omega-page.netlify.app/">📱 OMEGA PAGE</a>
 <br>
     <a href="https://github.com/mabrur-h?tab=repositories">👀 SEE MORE...</a>
-<hr>
   </p></details>
-
-
+<hr>
 <details><summary>▶️<strong>Languages and Tools... </strong></summary>
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
@@ -60,4 +59,4 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-#### Thank You-🙏🏼
+#### Thank You for visiting😇
