@@ -16,7 +16,7 @@
 
 <img align="center" height="300px" alt="photo" src="https://thumbs.gfycat.com/WebbedAgedHorsechestnutleafminer-size_restricted.gif" />
 <hr>
-### I'm 17 years old Full-Stack developer from Uzbekistan.
+<strong> I'm 17 years old Full-Stack developer from Uzbekistan. </strong>
 
 - 👨‍💻 I’m currently working on my Portfolio Website
 - ⚛️ I’m currently learning MERN Stack Development.
@@ -26,14 +26,13 @@
 <hr>
 
 <details><summary><strong>▶️My Projects...</strong></summary><p>
-[🤖 FUTBOLAVA BOT](https://t.me/futbolavabot/)
+  <a href="https://t.me/futbolavabot/">🤖 FUTBOLAVA BOT</a>
 <br>
-[📰 NEWS SITE](https://deus-news.netlify.app/)
+  <a href="https://deus-news.netlify.app/">📰 NEWS SITE</a>
 <br>
-[📱 OMEGA PAGE](https://omega-page.netlify.app/)
+  <a href="https://omega-page.netlify.app/">📱 OMEGA PAGE</a>
 <br>
-[👀 SEE MORE...](https://github.com/mabrur-h?tab=repositories)</p></details>
-
+    <a href="https://github.com/mabrur-h?tab=repositories">👀 SEE MORE...</a>
 <hr>
 
 
