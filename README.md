@@ -34,6 +34,7 @@
 <br>
     <a href="https://github.com/mabrur-h?tab=repositories">👀 SEE MORE...</a>
 <hr>
+  </p></details>
 
 
 <details><summary>▶️<strong>Languages and Tools... </strong></summary>
