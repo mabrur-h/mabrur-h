@@ -1,4 +1,4 @@
-  [![Coding boy](https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif)](https://www.facebook.com/mabrur.h11) 
+  [![Coding boy](https://coverfiles.alphacoders.com/399/39953.jpg)](https://www.facebook.com/mabrur.h11) 
 <p>
   <h1 align="center"><b>Hi there, I'm Mabrur👋</b></h1>
 </p>
@@ -14,8 +14,8 @@
 
 <br>
 
-<img align="center" height="300px" alt="GIF" src="https://myglobalcv.com/wp-content/uploads/2020/04/hello.gif" />
-
+<img align="center" height="300px" alt="photo" src="https://thumbs.gfycat.com/WebbedAgedHorsechestnutleafminer-size_restricted.gif" />
+<hr>
 ### I'm 17 years old Full-Stack developer from Uzbekistan.
 
 - 👨‍💻 I’m currently working on my Portfolio Website
@@ -23,31 +23,28 @@
 - 💬 Ask me about anything, I am happy to help
 - 🧗 I try to: Go beyond and push the bounds
 
+<hr>
 
-<br>
-
-### - My Projects...
-
+<details><summary><strong>▶️My Projects...</strong></summary><p>
 [🤖 FUTBOLAVA BOT](https://t.me/futbolavabot/)
 <br>
 [📰 NEWS SITE](https://deus-news.netlify.app/)
 <br>
 [📱 OMEGA PAGE](https://omega-page.netlify.app/)
 <br>
-[👀 SEE MORE...](https://github.com/mabrur-h?tab=repositories)
+[👀 SEE MORE...](https://github.com/mabrur-h?tab=repositories)</p></details>
 
-<br>
+<hr>
 
-### - Languages and Tools...
 
+<details><summary>▶️<strong>Languages and Tools... </strong></summary>
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
-</p>
+</p></details>
+<hr>
 <br>
-<br>
-<br>
-<br>
+<h3> - My Github activity </h3>
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mabrur-h&show_icons=true&theme=merko" alt="Mabrur's Github Stats">
@@ -59,8 +56,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabrur-h&show_icons=true&hide_border=true&theme=merko">
 </p>
 <br>
-
+<hr>
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-#### Thanks for Visiting! 😇
+#### Thank You-🙏🏼
