@@ -17,8 +17,11 @@
 <h3> I'm 17 years old Full-Stack developer from Uzbekistan. </h3>
 <br>
 - 💻 I’m currently working on my Portfolio Website
+<br>
 - ⚛️ I’m currently learning MERN Stack Development.
+<br>
 - 💬 Ask me about anything, I am happy to help
+<br>
 - 🧗 I try to: Go beyond and push the bounds
 
 <hr>
