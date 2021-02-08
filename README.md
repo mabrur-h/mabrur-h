@@ -18,7 +18,7 @@
 <br>
 - 💻 I’m currently working on my Portfolio Website
 <br>
-- 🔋 I’m currently learning MEVN Stack Development.
+- 🔋  I’m currently learning MEVN Stack Development.
 <br>
 - 💬 Ask me about anything, I am happy to help
 <br>
