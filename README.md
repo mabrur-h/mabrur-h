@@ -14,9 +14,8 @@
 <br>
 
 <hr>
-<h3> I'm 17 years old Full-Stack developer from Uzbekistan. </h3>
+<h3> I'm Full-Stack developer from Uzbekistan. </h3>
 <br>
-- 💻 I’m currently working on my Portfolio Website
 <br>
 - 🔋  I’m currently learning MEVN Stack Development.
 <br>
