@@ -17,7 +17,7 @@
   Hi, I'm Mabrur, Software Engineer from Uzbekistan
   <br>
   <br>
-  🔬 I'm currently studying for a bachelors's degree in Tashkent University of IT
+  🔬 I'm currently studying at Tashkent University of IT and working at @iTechArt
   <br>
   💻 I love writing code and learn anythings about it
   <br>
