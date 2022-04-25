@@ -21,6 +21,9 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
+  <br>
+  ✍️ My blog, where I share personal experiences <a href="https://t.me/mabrur_dev">t.me/mabrur_dev</a>
+  <br>
   💬 Ask me anything about from <a href="https://github.com/mabrur-h/mabrur-h/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: mabrur.h11@gmail.com">mabrur.h11@gmail.com</a>
